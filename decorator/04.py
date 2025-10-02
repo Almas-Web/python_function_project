@@ -19,7 +19,7 @@ def greet():
     
 """
 def add(a,b,*args):
-    print(a+b+args)  can't add integer+ tupple 
+    print(a+b+args)  can't add integer+ tuple 
     """
 @decorator
 def add(a, b, *args):
